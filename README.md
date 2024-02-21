@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Brendon Coronas 👋
 
 
 - 🔭 Hoje estou trabalhando na Secretaria do Estado do RS com java ...
